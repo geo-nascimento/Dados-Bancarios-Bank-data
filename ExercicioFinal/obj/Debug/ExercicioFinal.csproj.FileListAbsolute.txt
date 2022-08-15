@@ -1,0 +1,8 @@
+D:\programas_c#\Testes\05\ExercicioFinal\ExercicioFinal\bin\Debug\ExercicioFinal.exe.config
+D:\programas_c#\Testes\05\ExercicioFinal\ExercicioFinal\bin\Debug\ExercicioFinal.exe
+D:\programas_c#\Testes\05\ExercicioFinal\ExercicioFinal\bin\Debug\ExercicioFinal.pdb
+D:\programas_c#\Testes\05\ExercicioFinal\ExercicioFinal\obj\Debug\ExercicioFinal.csproj.AssemblyReference.cache
+D:\programas_c#\Testes\05\ExercicioFinal\ExercicioFinal\obj\Debug\ExercicioFinal.csproj.SuggestedBindingRedirects.cache
+D:\programas_c#\Testes\05\ExercicioFinal\ExercicioFinal\obj\Debug\ExercicioFinal.csproj.CoreCompileInputs.cache
+D:\programas_c#\Testes\05\ExercicioFinal\ExercicioFinal\obj\Debug\ExercicioFinal.exe
+D:\programas_c#\Testes\05\ExercicioFinal\ExercicioFinal\obj\Debug\ExercicioFinal.pdb
